@@ -1,7 +1,7 @@
 
   Platform: win32
   Arch: x64
-  Free: 4.52Гб.
+  Free: 4.23Гб.
   Total: 15.82Гб.
   Cpu: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
   Cores: 8
